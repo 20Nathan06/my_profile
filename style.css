@@ -1,0 +1,39 @@
+body{
+	background-color: lightgrey;
+	color: darkgrey;
+	font-family: Helvetica;
+	font-size: 16px;
+	h1 {
+		color: red;
+	}
+	h2{color: grey;}
+	img{
+		width: 188px;
+		height: 250px;
+	}
+	ul{font-weight: bold}
+	p{color: black;}
+	.img-circle{
+		border-radius: 50%;
+	}
+}
+
+/* Custom design with class */
+
+.container{
+	width: 700px;
+	margin: 40px auto;
+}
+
+.card-design{
+	text-align: center;
+}
+
+.list-inline{
+	background-color: lightblue;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 40px;
+	list-style: none;
+	padding-left: 0px;
+}
